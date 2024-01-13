@@ -9,9 +9,10 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Java , Spring Boot**
+- 💬 Ask me about **Java**
 
-- 📫 How to reach me **Phone: +254724320449 Email: duncancheruiyot93@gmail.com**
+- 📫 How to reach me **Phone: +254724320449
+                       Email: duncancheruiyot93@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
